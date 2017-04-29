@@ -1,0 +1,87 @@
+# Laravel
+/public/storage
+/public/hot
+/public/cache/*
+/public/sitemap.xml
+/storage/*.key
+/.env
+/.env.local
+/.env.production
+/.env.staging
+/.env.testing
+/.idea
+/_ide_helper.php
+Homestead.yaml
+Homestead.json
+
+# Umbler
+/temporary.html
+
+# Composer
+/vendor
+
+# Deployer
+deployer.phar
+
+# Composer
+composer.phar
+
+# Windows
+*.cab
+*.lnk
+*.msi
+*.msm
+*.msp
+Desktop.ini
+ehthumbs.db
+Thumbs.db
+
+# Linux
+*~
+.cache
+.directory
+.Trash-*
+
+# Sublime Text
+*.stTheme.cache
+*.sublime-workspace
+*.tmlanguage.cache
+*.tmPreferences.cache
+sftp-config.json
+
+# NPM
+/logs
+*.log
+*.pid
+*.pid.lock
+*.seed
+.grunt
+.lock-wscript
+.node_repl_history
+.npm
+.nyc_output
+coverage
+jspm_packages
+lib-cov
+node_modules
+npm-debug.log
+npm-debug.log*
+pids
+
+# Bower
+bower
+bower_components
+
+# PHP-CS-Fixer
+.php_cs.cache
+
+# Mac OS
+*.DS_Store
+._*
+.AppleDouble
+.DS_Store
+.LSOverride
+.Spotlight-V100
+.Trashes
+Icon
+
